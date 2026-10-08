@@ -1,6 +1,6 @@
 Heya!
 
-I'm 18 years old, living in the United Kingdom. I write passion projects for myself, and overall enjoy programming as a hobby.
+I'm 18 years old, living in the United Kingdom. I write passion projects for myself, and enjoy programming as a hobby.
 
  - 💬 Discord: mjh8x
  - 🔤 Languages: Go, Python.
